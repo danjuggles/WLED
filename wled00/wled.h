@@ -94,7 +94,7 @@
 #include <SPI.h>
 
 #include "src/dependencies/network/Network.h"
-
+#include "src/dependencies/midi/MIDI.h"
 #ifdef WLED_USE_MY_CONFIG
   #include "my_config.h"
 #endif
